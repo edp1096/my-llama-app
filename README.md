@@ -5,8 +5,7 @@
 ### CPU
 * Require `llama.dll` from [here](https://github.com/edp1096/my-llama/releases)
 ```powershell
-$env:CGO_LDFLAGS=$null
-go build -tags cpu -o bin/
+go build -tags cpu
 ```
 
 ### CLBlast
@@ -17,6 +16,5 @@ go build -tags cpu -o bin/
     * AMD ROCm
     * Intel OpenCL
 ```powershell
-$env:CGO_LDFLAGS=$null
-go build -tags clblast -ldflags="-X main.deviceType=clblast" -o bin/
+go build -tags clblast -ldflags="-X main.deviceType=clblast"
 ```
