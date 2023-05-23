@@ -1,4 +1,4 @@
-[my-llama](https://github.com/edp1096/my-llama) runner for go module testing
+[my-llama](https://github.com/edp1096/my-llama) runner for go module testing and example.
 
 ## Build
 
