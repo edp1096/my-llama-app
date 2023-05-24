@@ -17,10 +17,6 @@
 ### CPU
 * Require `llama.dll` from [here](https://github.com/edp1096/my-llama/releases)
 ```powershell
-go build
-
-# or
-
 go build -tags cpu
 ```
 
