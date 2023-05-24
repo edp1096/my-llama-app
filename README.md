@@ -16,7 +16,9 @@
 * Require `llama.dll` from [here](https://github.com/edp1096/my-llama/releases)
 ```powershell
 go build
+
 # or
+
 go build -tags cpu
 ```
 
@@ -28,5 +30,5 @@ go build -tags cpu
     * AMD ROCm
     * Intel OpenCL
 ```powershell
-go build -tags clblast -ldflags="-X main.deviceType=clblast"
+go build -tags clblast
 ```
