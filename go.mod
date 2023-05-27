@@ -3,7 +3,7 @@ module run-myllama
 go 1.20
 
 require (
-	github.com/edp1096/my-llama v0.1.15
+	github.com/edp1096/my-llama v0.1.17
 	github.com/shirou/gopsutil/v3 v3.23.4
 	golang.org/x/net v0.10.0
 )

@@ -1,8 +1,8 @@
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/edp1096/my-llama v0.1.15 h1:26oX4aUSY2q6G8cmZJvh3gQPc7cqxL9rTjSiaRLExzY=
-github.com/edp1096/my-llama v0.1.15/go.mod h1:i30CBHimKy5p+mMiq+xka8po1bwWv04mlSL1yAS56cc=
+github.com/edp1096/my-llama v0.1.17 h1:Y5NLE3oQAUenyR45aqLyM+3Aig6G4n7VK0n3nX+dUs4=
+github.com/edp1096/my-llama v0.1.17/go.mod h1:i30CBHimKy5p+mMiq+xka8po1bwWv04mlSL1yAS56cc=
 github.com/go-ole/go-ole v1.2.6 h1:/Fpf6oFPoeFik9ty7siob0G6Ke8QvQEuVcuChpwXzpY=
 github.com/go-ole/go-ole v1.2.6/go.mod h1:pprOEPIfldk/42T2oK7lQ4v4JSDwmV0As9GaiUsvbm0=
 github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
